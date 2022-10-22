@@ -466,9 +466,9 @@ footer {
 /* small phones */
 
 @media (max-width: 480px) {
-    /* .nav__link:not(:last-child) {
+    .nav__link:not(:last-child) {
         display: none;
-    } */
+    }
 
     .project__description {
         padding: 0;
